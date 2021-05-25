@@ -1,0 +1,9 @@
+{
+  "files": ["./*.{ts,tsx}"],
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "noImplicitAny": false,
+    "target": "es5"
+  }
+}
