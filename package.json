@@ -1,6 +1,6 @@
 {
   "name": "reactify-html",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1-alpha.1",
   "description": "Parses HTML into a proper React component tree.",
   "main": "dist/index.js",
   "repository": "https://github.com/elementofdesign/reactify",
